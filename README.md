@@ -15,8 +15,8 @@ All work is completed in a Colab notebook with free GPU acceleration.
 
 ## Files
 
-- `Copy_of_CS189_HW_NN.ipynb`: Main Colab notebook containing all training and evaluation code
-- `datasets/`: Folder containing required training and testing datasets (not included here due to size)
+- `CS189_HW_NN.ipynb`: Main Colab notebook containing all training and evaluation code
+- `datasets/`: Folder containing required training and testing datasets
 
 ## Getting Started
 
